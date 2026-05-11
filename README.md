@@ -149,7 +149,7 @@ O agente não captura tela, não grava teclado e não envia conteúdo de arquivo
 Quando houver uma versão publicada, baixe o executável em:
 
 ```text
-[https://github.com/rovannlinhalis/timecontrol-linhalis/releases/latest](https://github.com/rovannlinhalis/timecontrol-linhalis/tree/main/agent/releases)
+https://github.com/rovannlinhalis/timecontrol-linhalis/tree/main/agent/releases
 ```
 
 Baixe o arquivo do agente para uma pasta local no Windows e execute:
