@@ -4,6 +4,9 @@ TimeControl Linhalis é um sistema de controle de tempo baseado em eventos de at
 
 A aplicação web permite cadastrar projetos e regras de identificação de trabalho. O agente desktop para Windows coleta eventos da janela ativa em segundo plano e envia esses eventos para a API. A API processa os eventos e monta sessões de trabalho para relatórios, dashboards e análise por projeto.
 
+<img width="1535" height="766" alt="image" src="https://github.com/user-attachments/assets/0c0ba808-3199-497b-b3dc-dd7b5e7b123b" />
+
+
 ## Componentes
 
 - **Aplicação web + API**: roda em Docker como uma única imagem, com frontend React e API ASP.NET publicados juntos.
